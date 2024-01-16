@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 
 📚 What I'm learning 📚
 
-<img src="https://img.shields.io/badge/C%20++-4B8BF5?style=flat&logo=cplusplus&logocolor=white"/>
-
+<img src="https://img.shields.io/badge/Python-FFD23F?style=flat&logo=python&logocolor=white"/> <img src="https://img.shields.io/badge/C%20++-4B8BF5?style=flat&logo=cplusplus&logocolor=white"/> 
 

@@ -23,7 +23,10 @@ Here are some ideas to get you started:
 
 
 🛫 Where I've been 🛫
-영/프/이탈/스위/노르/스웨/핀/독/오스트리아 - 일본(도쿄.오사카.교토.훗카이도.후쿠오카) 중국(상하이) 싱가포르  
+
+🇬🇧 🇫🇷 🇮🇹 🇨🇭 🇳🇴 🇸🇪 🇫🇮 🇩🇪 🇦🇹 🇪🇸 🇵🇹 🇷🇺 🇯🇵 🇨🇳 🇸🇬 🇵🇭 🇹🇼
+
+UK France Italy Switzerland Norway Sweden Finland Deutschland Austria Espana Portugal Russia(Владивосток) Japan(東京 大阪 京都 北海道 福岡) China(上海) Singapore Philippines Taiwan
 
 
 

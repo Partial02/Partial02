@@ -19,7 +19,13 @@ Here are some ideas to get you started:
 
 ## 📚 What I'm learning 📚
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/sklearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/C%20++-4B8BF5?style=plastic&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/sklearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/C%20++-4B8BF5?style=plastic&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=HTML5&logoColor=white"/> img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=CSS3&logoColor=white"/>
+
+
+## 🍑 What's Next? 🍑
+
+(Visualization) Plotly, Folium / (FrontEnd) PHP, Node.Js, JSP, Express, Django, React / (Crawling) Requests, Beatiful Soup, Selenium, Scrapy / (Python) Keras, Pytorch / (Language) Java, Kotlin
+
 
 
 ## 🛫 Where I've been 🛫

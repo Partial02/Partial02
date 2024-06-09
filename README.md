@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## 🍑 What's Next? 🍑
 
-(Visualization) Plotly, Folium / (FrontEnd) PHP, Node.Js, JSP, Express, Django, React / (Crawling) Requests, Beatiful Soup, Selenium, Scrapy / (Python) Keras, Pytorch / (Language) Java, Kotlin
+(Python) Tensorflow, Keras, Pytorch, Chainer, ScikitLearn / (Visualization) Plotly, Folium / (FrontEnd) PHP, Node.Js, JSP, Express, Django, React / (Crawling) Requests, Beatiful Soup, Selenium, Scrapy / (Language) Java, Kotlin
 
 
 

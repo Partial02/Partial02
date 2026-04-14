@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,7,10,10,10,20,24&height=300&section=header&text=Wie%20Gehts?&fontSize=90&fontAlign=60&animation=fadeIn" />
 
-Thank you for visiting my github repository! I'm Yejun Oh, senior student of 'Department of Data Science', Korea University. I'm currently doing Lab Intern at KU DMIS leading by Prof. Kang Jaewoo. I'm formal Student Researcher at KIST. I'm interested in Graph Neural Network, especially in Link Prediction / Graph Prediction / Graph-based cutting-edge tasks / Data Mining & Intelligences and more!
+😀 Thank you for visiting my github repository! I'm Yejun Oh, senior student of 'Department of Data Science', Korea University. 
 
-I've really loved playing instruments, like Percussions including Drum, Cajon, Piano and Jangu! My favorite genre is Alternative Rock music, but funk / punk / jazz / classical / blues / indie / Lo-Fi and anything related with instrumental music is fine!
+🥽 I'm currently doing Lab Intern at KU DMIS leading by Prof. Kang Jaewoo. I'm formal Student Researcher at KIST. I'm interested in Graph Neural Network, especially in Link Prediction / Graph Prediction / Graph-based cutting-edge tasks / Data Mining & Intelligences and more!
+
+🥁 I've really loved playing instruments, like Percussions including Drum, Cajon, Piano and Jangu! My favorite genre is Alternative Rock music, but funk / punk / jazz / classical / blues / indie / Lo-Fi and anything related with instrumental music is fine!
 
 ## 📚 What I can use 📚
 

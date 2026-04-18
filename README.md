@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 ## 🧱 Where I've built 🧱
 
-<img src="https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=GoogleColab&logoColor=white"/> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=plastic&logo=Kaggle&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=plastic&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/Rstudio IDE-75AADB?style=plastic&logo=rstudioide&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=GoogleColab&logoColor=white"/> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=plastic&logo=Kaggle&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=plastic&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/Rstudio IDE-75AADB?style=plastic&logo=rstudioide&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/VScode-22a6f2?style=plastic&logoColor=white"/>
 
 ## 🍑 What's Next? 🍑
 
-<img src="https://img.shields.io/badge/PyG-3C2179?style=flat&logo=PyG&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Folium-77B829?style=flat&logo=Folium&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyG-3C2179?style=flat&logo=PyG&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Folium-77B829?style=flat&logo=Folium&logoColor=white"/> <img src="https://img.shields.io/badge/NetworkX-2b7bb2?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/yEd Live-232162?style=plastic&logoColor=white"/> <img src="https://img.shields.io/badge/Gephi-3a2b49?style=plastic&logoColor=white"/>
 
 
 ## 🛫 Where I've been 🛫

@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 😀 Thank you for visiting my github repository! I'm Yejun Oh, graduate student of 'Graduate School of Data Science(GSDS)', Seoul National University. 
 
-🥽 I'm currently studying at SNU DIAL Lab. I've graduate Korea University for B.E. at department of Data Science. I'm formal Student Researcher at KIST. I'm interested in Graph Neural Network, especially in GNN Morphism / Topological Learning / GNN Orchestration and more!
+🥽 I'm currently studying at SNU DIAL Lab. I've graduated Korea University within 7 semesters and received B.E. at department of Data Science. I'm formal Student Researcher at KIST. I'm interested in Graph Neural Network, especially in GNN Morphism / Topological Learning / GNN Orchestration and more!
 
 🥁 I've really loved playing instruments, like Percussions including Drum, Cajon, Piano and Jangu! My favorite genre is Alternative Rock music, but funk / punk / jazz / classical / blues / indie / Lo-Fi and anything related with instrumental music is fine!
 

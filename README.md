@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,7,10,10,10,20,24&height=300&section=header&text=Wie%20Gehts?&fontSize=90&fontAlign=60&animation=fadeIn" />
 
-😀 Thank you for visiting my github repository! I'm Yejun Oh, graduate student of 'Graduate School of Data Science(GSDS)', Seoul National University. 
+😀 Thank you for visiting my github repository! I'm Yejun Oh, M.S+Ph.D student of Graduate School of Data Science(GSDS), Seoul National University. 
 
 🥽 I'm currently studying at SNU DIAL Lab. I've graduated Korea University within 7 semesters and received B.E. at department of Data Science. I'm formal Student Researcher at KIST. I'm interested in Graph Neural Network, especially in GNN Morphism / Topological Learning / GNN Orchestration and more!
 

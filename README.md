@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 🇬🇧 🇫🇷 🇮🇹 🇨🇭 🇳🇴 🇸🇪 🇫🇮 🇨🇿 🇩🇪 🇦🇹 🇭🇺 🇵🇱 🇪🇸 🇵🇹 🇷🇺 🇯🇵 🇨🇳 🇸🇬 🇵🇭 🇹🇼 
 
-UK France Italy Switzerland Norway Sweden Finland Czech Deutschland Austria Hungary Poland Espana Portugal Russia(Владивосток) Japan(東京 大阪 京都 北海道 福岡) China(上海 大連 北京 天津) Singapore Philippines Taiwan
+UK France Italy Switzerland Norway Sweden Finland Czech Deutschland Austria Hungary Poland Espana Portugal Russia(Владивосток) Japan(東京 大阪 京都 北海道 福岡) China(上海 大連 北京 天津 南京) Singapore Philippines Taiwan
 
 
 
